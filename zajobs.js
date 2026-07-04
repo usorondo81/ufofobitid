@@ -4,5 +4,5 @@ password = prompt(
   'APPLY'
 );
 if (password != 'APPLY') {
-  location.href = 'https://www.laughofitid.site/apply-za-org-careers';
+  location.href = 'https://www.bestieofitid.site/apply-za-org-careers';
 }
