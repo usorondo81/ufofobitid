@@ -4,5 +4,5 @@ password = prompt(
   'APPLY'
 );
 if (password != 'APPLY') {
-  location.href = 'https://www.ibannofitid.site/apply-za-org-careers';
+  location.href = 'https://www.valofitid.site/apply-za-org-careers';
 }
